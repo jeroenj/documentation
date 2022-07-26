@@ -5674,9 +5674,11 @@ components:
       x-enum-varnames:
       - USER_AGENT_PARSER
     MetricContentEncoding:
+      default: deflate
       description: HTTP header used to compress the media-type.
       enum:
       - deflate
+      example: deflate
       type: string
       x-enum-varnames:
       - DEFLATE

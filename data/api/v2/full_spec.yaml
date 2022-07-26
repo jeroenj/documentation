@@ -4351,6 +4351,7 @@ components:
       description: HTTP header used to compress the media-type.
       enum:
       - deflate
+      example: deflate
       type: string
       x-enum-varnames:
       - DEFLATE

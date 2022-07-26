@@ -23443,6 +23443,7 @@
         "enum": [
           "deflate"
         ],
+        "example": "deflate",
         "type": "string",
         "x-enum-varnames": [
           "DEFLATE"
@@ -82308,6 +82309,7 @@
               "enum": [
                 "deflate"
               ],
+              "example": "deflate",
               "type": "string",
               "x-enum-varnames": [
                 "DEFLATE"
